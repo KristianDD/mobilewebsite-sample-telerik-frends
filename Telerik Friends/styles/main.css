@@ -50,7 +50,8 @@
 #friendsApp.km-flat .km-content {
   overflow: hidden;
   margin: 0 auto;
-  width: 600px;
+  width: 100%;
+  max-width: 600px;
   border: 0 none;
   background-color: #2d3e50;
   color: #fff;
